@@ -1,0 +1,6 @@
+2023-07-30T22:57:50.048Z [my-app] error: Error Log
+2023-07-30T22:57:50.051Z [my-app] warn: Warn log
+2023-07-30T22:57:50.052Z [my-app] info: info Log
+2023-07-30T22:57:50.052Z [my-app] verbose: verbose Log
+2023-07-30T22:57:50.052Z [my-app] debug: debug Log
+2023-07-30T22:57:50.052Z [my-app] silly: silly Log
